@@ -4,4 +4,4 @@
 - 💞️ I’m looking to collaborate on projects in making websites 
 - 📫 Reach through my linkedin profile https://www.linkedin.com/in/shreya-agrawal-810b16270
 - video edditing site ::  https://online-video-cutter.com/remove-logo
-
+- integrate python in html code---https://pyscript.net/
