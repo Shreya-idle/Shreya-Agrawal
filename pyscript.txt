@@ -1,0 +1,2 @@
+pyscript.write("mytext","external python file") 
+  comment--here mytext in html is treated as an id whose appearence could be changed using .css
