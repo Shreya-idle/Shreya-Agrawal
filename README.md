@@ -28,7 +28,7 @@
 <a href="https://www.codechef.com/users/stiffen" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="stiffen" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/shreya_agr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="shreya_agr" height="30" width="40" /></a>
 <a href="https://discord.gg/1235113087875682314" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="1235113087875682314" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/shreya-agrawal-810b16270" target="blank"><img align="center" src="file:///C:/Users/amita/Downloads/linkedin.svg.svg" alt="1235113087875682314" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shreya-agrawal-810b16270" target="blank"><img align="center" src="file:///C:/Users/amita/Downloads/linkedinsvg.svg" alt="ShreyaAgrawal" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
